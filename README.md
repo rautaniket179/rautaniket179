@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Software Engineer at Sodel Solutions with experience in developing web and mobile-responsive applications.<br>•<br>I have worked on enterprise projects for YES Bank and on a temple seva booking platform that includes Darshan and Puja booking.<br>•<br>My primary expertise is in frontend development using Angular, TypeScript, HTML, CSS, and Tailwind CSS, along with backend integration using Python and Spring Boot.<br>•<br>I focus on building scalable, user-friendly, and high-performance applications while continuously improving my technical skills.
+I am a Software Engineer at Sodel Solutions with experience in developing web and mobile-responsive applications.I have worked on enterprise projects for YES Bank and on a temple seva booking platform that includes Darshan and Puja booking.My primary expertise is in frontend development using Angular, TypeScript, HTML, CSS, and Tailwind CSS, along with backend integration using Python and Spring Boot.I focus on building scalable, user-friendly, and high-performance applications while continuously improving my technical skills.
 
 
 ## 🌐 Socials:
